@@ -1,0 +1,7 @@
+gspread
+pandas
+smtplib
+email.message
+email.mime.multipart
+email.mime.text
+pytz
